@@ -1,31 +1,73 @@
-# Walmart-Superstore-Analysis
-Sales and Profit Analysis using Power BI
-## Project Overview
+Walmart Superstore Sales Analysis
 
-This project analyzes Walmart Superstore sales data using Power BI to understand sales, profit, and product performance.
+Project Overview
 
-## Objective
+This project analyzes Walmart Superstore sales data using Power BI to understand sales performance, profitability, and product trends.
 
-- Analyze sales and profit by product category and region.
-- Identify high-performing and low-performing products.
-- Use the Pareto Rule (80/20 Rule) to identify products contributing most to total sales.
+Project Objectives
 
-## Tools Used
+Analyze sales and profit by product category and region.
 
-- Power BI
-- Power Query
-- DAX
+Identify high-performing and low-performing products.
 
-## Key Performance Indicators (KPIs)
+Understand customer segment performance.
 
-- Total Sales
-- Total Profit
-- Total Quantity
+Apply the Pareto Rule (80/20 Rule) to identify products contributing most to total sales.
 
-## Business Insights
+Present business insights through an interactive Power BI dashboard.
 
-The dashboard helps identify top-performing products, analyze sales and profit, and identify areas for improvement.
+Tools and Technologies
 
-## Conclusion
+Power BI
 
-This project demonstrates my skills in data analysis, Power BI dashboards, and business insights.
+Power Query
+
+DAX
+
+Key Performance Indicators (KPIs)
+
+Total Sales: Measures overall sales revenue.
+
+Total Profit: Measures profit earned from sales.
+
+Total Quantity: Measures the quantity of products sold.
+
+Analysis Process
+
+Reviewed the sales dataset.
+
+Prepared and transformed data for analysis.
+
+Analyzed sales and profit across categories and regions.
+
+Calculated cumulative sales and cumulative percentages for Pareto analysis.
+
+Presented key metrics and findings using Power BI visuals.
+
+Pareto Analysis
+
+The Pareto Rule, also known as the 80/20 Rule, helps identify the products that contribute most to total sales.
+
+The analysis uses cumulative sales and cumulative percentage to understand the contribution of top-performing products.
+
+Business Value
+
+Helps identify products contributing most to sales.
+
+Supports comparison of sales and profitability.
+
+Helps highlight areas for further business analysis.
+
+Supports data-driven decision-making.
+
+Dashboard Preview
+
+Dashboard screenshot will be added here.
+
+Project Report
+
+View Walmart Superstore Sales Analysis Report (PDF)
+
+Conclusion
+
+This project demonstrates my skills in data analysis, data visualization, Power BI, and business insight generation.
